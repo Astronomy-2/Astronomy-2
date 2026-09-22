@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm Md Shafiqul Islam Abir 👋</h1>
+  <h1>Hi there, I'm Md Shafiqul Islam Abir </h1>
 
   <h3>Full Stack Web Developer | Laravel & Vue.js Enthusiast</h3>
 
@@ -20,19 +20,19 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 💻 Full Stack Web Developer focused on **Laravel & Vue.js**
-- 🚀 Building scalable and user-friendly web applications
-- 🔭 Currently working with **Laravel, Vue.js, Inertia.js and MySQL**
-- 🌱 Exploring **cloud deployment, server management and system architecture**
-- 🛠️ Experienced with **PHP, Laravel, MySQL, Vue.js, Git and cPanel**
-- ⚡ Passionate about solving complex problems through programming and physics
-- 🎓 B.Sc. in Physics
+-  Full Stack Web Developer focused on **Laravel & Vue.js**
+-  Building scalable and user-friendly web applications
+-  Currently working with **Laravel, Vue.js, Inertia.js and MySQL**
+-  Exploring **cloud deployment, server management and system architecture**
+-  Experienced with **PHP, Laravel, MySQL, Vue.js, Git and cPanel**
+-  Passionate about solving complex problems through programming and physics
+-  B.Sc. in Physics
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
 
@@ -42,9 +42,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏫 Adhyayan — School Management System
+###  Adhyayan — School Management System
 
 A modern school management system designed for schools and educational institutions.
 
@@ -54,7 +54,7 @@ A modern school management system designed for schools and educational instituti
 
 ---
 
-### 🛒 E-Commerce Platform
+###  E-Commerce Platform
 
 A modern single-store e-commerce solution with product management, inventory and order management.
 
@@ -62,7 +62,7 @@ A modern single-store e-commerce solution with product management, inventory and
 
 ---
 
-### 📰 News Portal
+###  News Portal
 
 A dynamic news publishing platform with category, article and content management.
 
@@ -70,7 +70,7 @@ A dynamic news publishing platform with category, article and content management
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -84,7 +84,7 @@ A dynamic news publishing platform with category, article and content management
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <div align="center">
 
@@ -94,7 +94,7 @@ A dynamic news publishing platform with category, article and content management
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
@@ -112,8 +112,8 @@ A dynamic news publishing platform with category, article and content management
 
 <div align="center">
 
-### 💡 "Build. Learn. Solve. Repeat."
+###  "Build. Learn. Solve. Repeat."
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 </div>
