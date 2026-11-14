@@ -1,26 +1,26 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1E3A8A,100:2563EB&amp;height=220&amp;section=header&amp;text=Md%20Shafiqul%20Islam%20Abir&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Web%20Developer%20%7C%20Laravel%20%26%20Vue.js&amp;descSize=16&amp;descAlignY=58&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Md%20Shafiqul%20Islam%20Abir&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Laravel%20and%20Vue.js&descSize=16&descAlignY=58&animation=fadeIn" />
 
 ### Full Stack Web Developer | Laravel & Vue.js Enthusiast
 
 Building modern, scalable and user-friendly web applications.
 
 <a href="https://portfolio.nobochap.com/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://github.com/Astronomy-2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:shafiqulislamabir2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-##  About Me
+## About Me
 
 - Full Stack Web Developer focused on **Laravel & Vue.js**.
 - Building modern and scalable web applications.
@@ -32,7 +32,7 @@ Building modern, scalable and user-friendly web applications.
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Building modern, scalable and user-friendly web applications.
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 ### 1. Adhyayan — School Management System
 
@@ -111,42 +111,40 @@ A modern single-store e-commerce solution with product, inventory and order mana
 
 ---
 
----
-
-##  GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Astronomy-2&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Astronomy-2&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astronomy-2&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Astronomy-2&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-##  GitHub Contribution Streak
+## GitHub Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Astronomy-2&amp;theme=tokyonight&amp;hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Astronomy-2&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Astronomy-2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://portfolio.nobochap.com/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="mailto:shafiqulislamabir2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -155,10 +153,10 @@ A modern single-store e-commerce solution with product, inventory and order mana
 
 <div align="center">
 
-###  "Build. Learn. Solve. Repeat."
+### "Build. Learn. Solve. Repeat."
 
 Thanks for visiting my GitHub profile! 😊
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,100:0F172A&amp;height=100&amp;section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" />
 
 </div>
