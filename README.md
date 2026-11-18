@@ -37,7 +37,6 @@
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" />
 
 - 🔭 Currently working on **Full Stack Web Applications** using **Laravel & Vue.js**.
-- 🏢 Founder & Developer at **[Nobochap](https://nobochap.com/)**.
 - 🌱 Exploring **Cloud Deployment, Server Management & System Architecture**.
 - 💻 Tech focus: **PHP, Laravel, Vue.js, Inertia.js, Tailwind CSS, and MySQL**.
 - 🎓 Pursuing **B.Sc. in Physics** at Begum Rokeya University, Rangpur.
